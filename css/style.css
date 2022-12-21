@@ -143,7 +143,7 @@ section{
 }
 .title p{
     opacity: 0.8;
-    margin-top: 16px;
+    margin-top: 16px; 
     max-width: 500px;
     margin-right: auto;
     margin-left: auto;
@@ -198,7 +198,7 @@ section{
     padding: 20px;
 }
 .services-item-icon{
-    width: 100px;
+    width: 100px; 
     height: 100px;
     margin-right: auto;
     margin-left: auto;
@@ -308,4 +308,3 @@ a.service-banner-button{
     background-color:whitesmoke
 }
 
-}
